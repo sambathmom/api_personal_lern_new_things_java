@@ -1,0 +1,3 @@
+- Configure project with db (postgresql)  and hibernate
+- Integrate springboot with rabbitmq (doc: https://dzone.com/articles/rabbitmq-and-spring-boot-integration-with-fault-to)
+        - It doesn't work, it still have problem with connection refuse. I can't find why it happened.
